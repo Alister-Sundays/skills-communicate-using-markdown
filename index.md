@@ -7,7 +7,7 @@
 $ git init 
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-- [ ] get approval from kefis
+- [x] get approval from kefis
 - [ ] Include other variables to the code
 - [ ] Check off all the bugs 
 - [ ] Finalize
